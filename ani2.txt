@@ -1,0 +1,1 @@
+Hello i am learning git commands, trying to commit ani1.txt, ani2.txt
